@@ -1,0 +1,25 @@
+.main-section1 {
+  background-color:black;
+  color:white;
+  display:inline-block;
+  font-size:1.5rem;
+  padding:20px;
+}
+
+.invisibleButton {
+  visibility: hidden;
+  margin-bottom:70px;
+}
+
+.main-section {
+  position:relative;
+  top:300px;
+  text-align:center;
+}
+
+
+.button {
+  position:relative;
+  right:40px;
+  font-size:2rem;
+}
